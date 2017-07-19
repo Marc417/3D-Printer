@@ -1,0 +1,16 @@
+CMD -> git add .
+-> git commit -m "(insert reason here)"
+->git push origin master
+should load after some time...
+
+
+how to push git:
+
+
+1)Create a new Repository
+2)cd path_to_project's_folder
+3)git init
+4)copy link to repo from github
+5)git add .
+6)git commit -m "description"
+7)git push origin master
